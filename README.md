@@ -13,5 +13,5 @@ Throughout this project, I learned:
 
 ---
 *This is not the original repo that I built along with the course but a new one, because I want to hide my api keys.*
-*In other words, this code cannot work properly. This is just providing the code that I wrote*
+*In other words, this code cannot work properly. This is just providing the code that I wrote.*
 
