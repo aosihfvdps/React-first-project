@@ -1,3 +1,5 @@
+# React first project
+
 ## To see the result, please visit
 * https://1112-client-db-19-tau.vercel.app/static_19 &#8594; Static, it uses online pictures
 * https://1112-client-db-19-tau.vercel.app/supa_shop2_19 &#8594; Dynamic, it uses SQL command to retrieve from tables on my Supabase
